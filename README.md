@@ -1,6 +1,6 @@
 # SAFIA ERP: Shaistakhil Trading Company
 
-> **Client project** · Built by [Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab) · The source code is private to the client.
+> **Client project** · Built by [Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi) · The source code is private to the client.
 
 A complete business management ERP for **Shaistakhil Trading Company (SAFIA brand)**, a buyer, processor and exporter of Afghan saffron and dry fruits. It runs the whole chain, from buying from farmers to exporting to customers abroad, with double-entry accounting in **AFN, USD and INR**.
 
